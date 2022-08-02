@@ -23,6 +23,7 @@ Spring Jasper
 H2 Database
 Spring MVC
 CRUD Repository
+Hibernate
 
 
 Language used:
@@ -32,5 +33,6 @@ Advance Java
 HTML 5
 CSS 3
 Javascript
+SQL
 
 
